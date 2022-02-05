@@ -49,19 +49,189 @@ The class is graded on a pass / fail basis, and grades will be determined by stu
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the Course | &nbsp; |
-| 2 | Embryonic Stem Cells, Gene Targeting and Transgenic Animals | &nbsp; |
-| 3 | Transgenic Animals in Complex Disease Modeling | &nbsp; |
-| 4 | Regenerative Medicine: Human Embryonic Stem Cells | &nbsp; |
-| 5 | Nuclear Transfer and Cellular Reprogramming | Manuscript choices for oral presentations |
-| 6 | Induced Pluripotent Stem Cells and Disease Modeling | &nbsp; |
-| 7 | Large Transgenic Mammalian Model Systems | &nbsp; |
-| 8 | Oral Presentations | &nbsp; |
-| 9 | Ethical Concerns with Stem Cell Biology | &nbsp; |
-| 10 | ZFN and TALEN Strategies for Genome Editing and Disease Modeling | &nbsp; |
-| 11 | CRISPR/Cas9 Strategies for Genome Editing and Disease Modeling | &nbsp; |
-| 12 | 3D Culture Systems | Choice of topic for final class, and distribution of written assignment materials |
-| 13 | Transdifferentiation | Distribution of required reading for final class |
-| 14 | Student Topic of Choice | Hard-copy of written assignment due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Embryonic Stem Cells, Gene Targeting and Transgenic Animals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Transgenic Animals in Complex Disease Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Regenerative Medicine: Human Embryonic Stem Cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Transfer and Cellular Reprogramming
+{{< tdclose >}}
+{{< tdopen >}}
+Manuscript choices for oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Induced Pluripotent Stem Cells and Disease Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Large Transgenic Mammalian Model Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ethical Concerns with Stem Cell Biology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+ZFN and TALEN Strategies for Genome Editing and Disease Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+CRISPR/Cas9 Strategies for Genome Editing and Disease Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+3D Culture Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Choice of topic for final class, and distribution of written assignment materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Transdifferentiation
+{{< tdclose >}}
+{{< tdopen >}}
+Distribution of required reading for final class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Student Topic of Choice
+{{< tdclose >}}
+{{< tdopen >}}
+Hard-copy of written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
